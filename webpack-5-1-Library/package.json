@@ -1,0 +1,17 @@
+{
+  "name": "webpack-5-1-Library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/library.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "panghao",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
